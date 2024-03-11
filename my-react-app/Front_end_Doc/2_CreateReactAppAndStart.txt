@@ -1,0 +1,45 @@
+1. create React Project
+
+Terminal -> npm create vite@latest 
+
+vite -> development server -> mordern web development
+
+
+	PS C:\projects\react-front-end> npm create vite@latest
+	Need to install the following packages:
+	create-vite@5.2.2
+	Ok to proceed? (y) y
+	√ Project name: ... my-react-app
+	√ Select a framework: » React
+	√ Select a variant: » JavaScript
+
+	Scaffolding project in C:\projects\react-front-end\my-react-app...
+
+	Done. Now run:   
+
+	  cd my-react-app
+	  npm install    
+	  npm run dev    
+
+	npm notice
+	npm notice New minor version of npm available! 10.2.4 -> 10.5.0      
+	npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.5.0
+	npm notice Run npm install -g npm@10.5.0 to update!
+	npm notice
+	PS C:\projects\react-front-end> 
+	
+cd inside project:
+
+	PS C:\projects\react-front-end> cd .\my-react-app\
+	
+
+install dependencites:
+
+	npm install
+		PS C:\projects\react-front-end\my-react-app> npm install
+		[..................] - idealTree:my-react-app: sill idealTree buildDeps
+
+Run the project:
+	npm run dev
+	
+http://localhost:5173/

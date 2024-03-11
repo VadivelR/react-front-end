@@ -1,0 +1,16 @@
+1. NODD JS:
+
+	https://nodejs.org/en
+
+
+	Download and install it.
+	
+	
+2. VS Code Development:
+ 
+	https://code.visualstudio.com/download
+	
+	Download and install it.
+	
+
+
